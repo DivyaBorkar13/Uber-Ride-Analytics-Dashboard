@@ -9,10 +9,4 @@ This project analyzes ride-sharing data (150,000 records) to uncover insights on
 - `Report.docx` → Detailed project report
 
 
-## 🔎 Key Insights
-- Peak ride demand: **Evenings (6–8 PM)**
-- Top pickup hubs: **Khandsa, Barakhamba Road, Saket**
-- Frequent cancellations due to wrong addresses & customer issues
-- **UPI** is the most preferred payment method
-- **Go Sedan** offers the most reliable CTAT
 
